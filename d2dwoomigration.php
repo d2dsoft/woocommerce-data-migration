@@ -65,7 +65,7 @@ class D2dWooMigration
     public function initMenu(){
         $has_main_menu = $this->menuPageExists();
         if(!$has_main_menu){
-            add_menu_page('D2dSoft', 'D2dSoft', 'administrator', 'd2dsoft', '', self::url() . 'logo.png');
+            add_menu_page('D2dSoft', 'D2dSoft', 'administrator', 'd2dsoft', '', self::url() . 'menu-logo.png');
         }
         add_submenu_page('d2dsoft', 'WooCommerce Migration', 'WooCommerce Migration', 'administrator', 'woomigration', array($this, 'display'));
         remove_submenu_page('d2dsoft', 'd2dsoft');
