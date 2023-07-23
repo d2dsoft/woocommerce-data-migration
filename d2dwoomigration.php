@@ -295,6 +295,7 @@ class D2dWooMigration
         $config['upload_location'] = $library_folder . '/files';
         $config['log_dir'] = $library_folder . '/log';
         $app->setConfig($config);
+        $app->setPluginManager($this);
         $this->migrationApp = $app;
         return $this->migrationApp;
     }
@@ -416,6 +417,25 @@ class D2dWooMigration
 
     public function getArrayValue($array, $key, $default = null){
         return isset($array[$key]) ? $array[$key] : $default;
+    }
+
+    /**
+     * Load plugin
+     * @var $name string
+     * @return object | boolean
+     */
+    public function getPlugin($name){
+        $path = dirname(__FILE__) . '/plugins/' . $name . '.php';
+        if(!file_exists($path)){
+            return false;
+        }
+        require_once $path;
+        $class_name = 'D2dWooMigrationPlugin' . $name;
+        if(!class_exists($class_name)){
+            return false;
+        }
+        $class = new $class_name();
+        return $class;
     }
 }
 
