@@ -3,6 +3,7 @@
 
 ## Products
 - [AmeriCommerce to WooCommerce Migration](https://d2d-soft.com/woocommerce-migration/782-7259-americommerce-to-woocommerce-migration-plugin.html#/72-entities-1000)
+- [Bagisto to WooCommerce Migration](https://d2d-soft.com/woocommerce-migration/949-8968-bagisto-to-woocommerce-migration-plugin.html#/72-entities-1000)
 - [BigCommerce to WooCommerce Migration](https://d2d-soft.com/woocommerce-migration/425-1727-bigcommerce-to-woocommerce-migration-plugin.html#/72-entities-1000)
 - [CS-Cart to WooCommerce Migration](https://d2d-soft.com/woocommerce-migration/329-1412-cs-cart-to-woocommerce-migration-plugin.html#/72-entities-1000)
 - [CubeCart to WooCommerce Migration](https://d2d-soft.com/woocommerce-migration/83-337-cubecart-to-woocommerce-migration-plugin.html#/72-entities-1000)
@@ -34,6 +35,7 @@
 
 ## Supported Platforms
 - [AmeriCommerce](https://www.americommerce.com/)
+- [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
