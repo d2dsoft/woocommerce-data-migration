@@ -20,6 +20,7 @@
 - [Magento to WooCommerce Migration](https://d2d-soft.com/woocommerce-migration/85-347-magento-to-woocommerce-migration-plugin.html#/72-entities-1000)
 - [MarketPress to WooCommerce Migration](https://d2d-soft.com/woocommerce-migration/579-2447-marketpress-to-woocommerce-migration-plugin.html#/72-entities-1000)
 - [OpenCart to WooCommerce Migration](https://d2d-soft.com/woocommerce-migration/86-352-opencart-to-woocommerce-migration-plugin.html#/72-entities-1000)
+- [osCMax to WooCommerce Migration](https://d2d-soft.com/woocommerce-migration/1204-11558-oscmax-to-woocommerce-migration-plugin.html#/72-entities-1000)
 - [osCommerce to WooCommerce Migration](https://d2d-soft.com/woocommerce-migration/87-357-oscommerce-to-woocommerce-migration-plugin.html#/72-entities-1000)
 - [OXID-eShop to WooCommerce Migration](https://d2d-soft.com/woocommerce-migration/88-362-oxid-eshop-to-woocommerce-migration-plugin.html#/72-entities-1000)
 - [PrestaShop to WooCommerce Migration](https://d2d-soft.com/woocommerce-migration/89-367-prestashop-to-woocommerce-migration-plugin.html#/72-entities-1000)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
